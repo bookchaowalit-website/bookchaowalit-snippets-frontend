@@ -1,0 +1,7 @@
+{
+  "snippets": [
+    {"id": "1", "title": "React Hook", "code": "const useHook = () => { }", "language": "javascript", "category": "React", "tags": ["react"]},
+    {"id": "2", "title": "Python Decorator", "code": "@decorator\\ndef func(): pass", "language": "python", "category": "Python", "tags": ["python"]}
+  ],
+  "categories": ["React", "Python", "TypeScript"]
+}
